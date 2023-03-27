@@ -24,6 +24,10 @@ Ad-hoc polymorphism, operators overload and orthodox canonical classes.
 
 Inheritance
 
-### Module 04 "continues"
+### Module 04 "80%"
 
 Subtype polymorphism, abstract classes, interfaces.
+
+### Module 05 "constinues"
+
+Try/Catch and Exceptions.
