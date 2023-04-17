@@ -28,6 +28,11 @@ Inheritance
 
 Subtype polymorphism, abstract classes, interfaces.
 
-### Module 05 "constinues"
+### Module 05 "100%"
 
 Try/Catch and Exceptions.
+
+### Module 06 "constinues"
+
+C++ Casts
+
